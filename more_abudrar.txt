@@ -13,12 +13,20 @@ a.shr_ytb{background-position:0px -152px}
   .infoo_2 img {display: inline-block;float: left;}
 .infoo_3{max-width: 39%; float: left; display: inline-block; background: #fff; padding: 5px; margin: 5px; width: 100%;}
 .infoo_3 a{padding:5px;}.infoo_3 a:after{content: "/";margin-right: 7px;}
+.infoo_rmove{padding:5px;}
 @media only screen and (max-width:640px){
 .follow_shr{display:block;float: none;width: 300px;}
 .infoo_2 {width: auto;position: relative;max-width: 100%;margin:5px;}
 .infoo_3{max-width: 100%;width:auto}
 }
 </style>
+<script type='text/javascript'>
+$(document).ready(function(){
+    $(".rmove_1").click(function(){
+        $("#infoo_1").slideUp(400);
+    });
+});
+</script>
 <div class="follow_shr">
   <span>لمراسلتنا و المتابعة على المواقع الإجتماعية</span>
 <a class='shr_fb' href='https://www.facebook.com/adascou' target='_blank' rel="nofollow"/>
@@ -45,4 +53,7 @@ a.shr_ytb{background-position:0px -152px}
 <a href="https://www.facebook.com/Ahmed-Assid-ⵃⵎⴰⴷ-ⵄⴰⵚⵉⴺ-131983433523051">صفحة احمد عصيد</a>
 <a href="http://www.ircam.ma/">المعهد الملكي للثقافة الأمازيغية</a>
 <a href="http://hca-dz.org/">المحافظة السامية للامازيغية - الجزائر</a>
+</div>
+<div class='infoo_rmove'>
+<a class="rmove_1">إغلاق</a>
 </div>
