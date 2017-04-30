@@ -1,0 +1,48 @@
+<style>
+  .follow_shr{padding: 6px; background: #ffffff; margin: 10px auto; overflow: hidden; display: inline-block; border: 1px solid#5f5f5f;}
+  .follow_shr span{color: #ff00bf;margin: 5px;display: block;}
+a.shr_fb,a.shr_tw,a.shr_plus,a.shr_msg,a.shr_ytb{float:left;padding:24px;margin:0;text-indent:100%;content:"";background-image:url(https://3.bp.blogspot.com/-QyvvZYOa7ws/WQEeWyTqz9I/AAAAAAAADIk/PDsoPd-h9iINIsgXgB-vd5KmQ2oiDlv0QCLcB/s1600/backgrnd_2.png);background-repeat:no-repeat;}
+a.shr_fb{background-position:-3px -1px}
+a.shr_tw{background-position:0px -52px}
+a.shr_plus{background-position:0px -102px}
+a.shr_msg{background-position:0px -301px}
+a.shr_ytb{background-position:0px -152px}
+/*infoo_2*/
+.infoo_2{border: 1px dotted#656363; float: right; background: #fff; max-width: 506px; margin: 10px; color: #636363;}
+.infoo_2 span {display: inline;float: right; max-width: 58%; margin: 6px; line-height: 25px;}
+  .infoo_2 img {display: inline-block;float: left;}
+.infoo_3{max-width: 39%; float: left; display: inline-block; background: #fff; padding: 5px; margin: 5px; width: 100%;}
+.infoo_3 a{padding:5px;}.infoo_3 a:after{content: "/";margin-right: 7px;}
+@media only screen and (max-width:640px){
+.follow_shr{display:block;float: none;width: 300px;}
+.infoo_2 {width: auto;position: relative;max-width: 100%;margin:5px;}
+.infoo_3{max-width: 100%;width:auto}
+}
+</style>
+<div class="follow_shr">
+  <span>لمراسلتنا و المتابعة على المواقع الإجتماعية</span>
+<a class='shr_fb' href='https://www.facebook.com/adascou' target='_blank' rel="nofollow"/>
+<a class='shr_tw' href='https://twitter.com/AhmedAdaskou' target='_blank' rel="nofollow"/>
+<a class='shr_plus' href='https://plus.google.com/113999053938315487569' target='_blank' rel="nofollow"/>
+<a class='shr_ytb' href='https://plus.google.com/113999053938315487569' target='_blank' rel="nofollow"/>
+<a class='shr_msg' href='/p/contact.html'/></div>
+<div class='infoo_2'>
+<span>مدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة </span>
+<img alt='ⴰⴱⵓⴷⵔⴰⵔ abudrar' src='https://4.bp.blogspot.com/-1GNq6UJq9hs/WMxT6PklXJI/AAAAAAAADAA/pGgO1u17l7ws2ICe6vdmeUuzFjWWwZ9lwCLcB/s1600/abudrarlogo.png'/>
+</div>
+<div class='infoo_3'>
+<a href="#">اللغة الأمازيغية</a>
+<a href="#">تيفيناغ</a>
+<a href="#">اللغة الأمازيغية</a>
+<a href="#">معاجم أمازيغية</a>
+<a href="http://www.amazighworld.org/">Amazigh World</a>
+<a href="http://www.amadalpresse.com/">العالم الأمازيغي</a>
+<a href="http://tirra.net/web/">رابطة تيرا</a>
+<a href="http://tawalt.com">تاوالت</a>
+<a href="http://fnaa.ma/?lang=ar">الفيدرالية الوطنية للجمعيات الأمازيغية</a>
+<a href="https://adaskou.blogspot.com/">مدونة أداسكو</a>
+<a href="https://www.congres-mondial-amazigh.org/">الكونغرس العالمي الأمازيغي</a>
+<a href="https://www.facebook.com/Ahmed-Assid-ⵃⵎⴰⴷ-ⵄⴰⵚⵉⴺ-131983433523051">صفحة احمد عصيد</a>
+<a href="http://www.ircam.ma/">المعهد الملكي للثقافة الأمازيغية</a>
+<a href="http://hca-dz.org/">المحافظة السامية للامازيغية - الجزائر</a>
+</div>
