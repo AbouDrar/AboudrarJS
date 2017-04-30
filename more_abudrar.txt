@@ -13,11 +13,28 @@ a.shr_ytb{background-position:0px -152px}
   .infoo_2 img {display: inline-block;float: left;}
 .infoo_3{max-width: 39%; float: left; display: inline-block; background: #fff; padding: 5px; margin: 5px; width: 100%;}
 .infoo_3 a{padding:5px;}.infoo_3 a:after{content: "/";margin-right: 7px;}
-.infoo_rmove{padding:5px;}
+.infoo_rmove{    border-radius: 5px;
+    background: #4d79bb;
+    display: inline-block;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    float: none;}
+a.rmove_1 {
+    display: block;
+    padding: 13px;
+    font-size: 22px;
+    color: #fff;
+    font-weight: bold;
+}   
 @media only screen and (max-width:640px){
 .follow_shr{display:block;float: none;width: 300px;}
 .infoo_2 {width: auto;position: relative;max-width: 100%;margin:5px;}
 .infoo_3{max-width: 100%;width:auto}
+.infoo_rmove{position: relative;
+    bottom: 5px;
+    left: 5px;
+    float: left;}
 }
 </style>
 <script type='text/javascript'>
@@ -55,5 +72,5 @@ $(document).ready(function(){
 <a href="http://hca-dz.org/">المحافظة السامية للامازيغية - الجزائر</a>
 </div>
 <div class='infoo_rmove'>
-<a class="rmove_1">إغلاق</a>
+<a class="rmove_1" href="javascript:void(0);">إغلاق</a>
 </div>
