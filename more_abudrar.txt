@@ -46,13 +46,16 @@ $(document).ready(function(){
 </script>
 <div class="follow_shr">
   <span>لمراسلتنا و المتابعة على المواقع الإجتماعية</span>
-<a class='shr_fb' href='https://www.facebook.com/adascou' target='_blank' rel="nofollow"/>
-<a class='shr_tw' href='https://twitter.com/AhmedAdaskou' target='_blank' rel="nofollow"/>
-<a class='shr_plus' href='https://plus.google.com/113999053938315487569' target='_blank' rel="nofollow"/>
-<a class='shr_ytb' href='https://plus.google.com/113999053938315487569' target='_blank' rel="nofollow"/>
+<a class='shr_fb' href='https://www.facebook.com/AbudrarBlog' target='_blank' rel="nofollow"/>
+<a class='shr_tw' href='http://twitter.com/AbudrarBlog' target='_blank' rel="nofollow"/>
+<a class='shr_plus' href='https://plus.google.com/+Abudrar' target='_blank' rel="nofollow"/>
+<a class='shr_ytb' href='http://www.youtube.com/channel/UCpdQ10oKrfBjoibPvJW6RZg' target='_blank' rel="nofollow"/>
 <a class='shr_msg' href='/p/contact.html'/></div>
 <div class='infoo_2'>
-<span>مدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة إلكترونية أمازيغية ستجد فيها كتب إلكترونية و مقالات متنوعة و فيديوهات و صور و اخبار تتعلق بالشأن الأمازيغي ⵢⴰⵏ ⵓⴱⵍⵓⴳ ⴰⵎⴰⵣⵉⵖ ⵏ ⵜⵓⵙⵙⵏⴰ ⴷ ⵜⵍⴻⵍⵍⵉمدونة </span>
+<span>
+مدونة أبودرار هي مدونة امازيغية مغربية تنشر فيها العديد من المواضيع و المقالات خاصة المتعلقة بالثقافة الأمازيغية في شمال إفريقيا و كل ما يندرج ضمنها من لغة و عادات و تقاليد و تاريخ... وهكذا فالمدونة تهدف الى التعريف بهذه الثقافة و التعريف بمناطق أمازيغية فريدة و رصد تقاليدها و اعرافها. و لأننا نسعى أيضا الى المساهمة في إغناء المحتوى الأمازيغي على الأنترنيت فإننا نرفع ملفات فيها كتب و فيديوهات و صوتيات و ننشرها للتحميل أو المشاهدة. و تعتبر القضية الأمازيغية مهمة بالنسبة لنا ومن أهم المحاور التي نهتم بها، إلا أن ذلك لا يعني اننا لانكثرت لباقي القضايا الوطنية التي تهم الدولة و المواطن لذا من الطبيعي ان تجد في المدونة مقالات عن الحرية و  نبذ العنف و التسلط و مصادرة الحقوق الأساسية التي ينبغي أن يتمتع بها كل إنسان كالحق في العيش الكريم و الحرية و التعبير و الإعتقاد و التعليم .. 
+www.abudrar.com
+</span>
 <img alt='ⴰⴱⵓⴷⵔⴰⵔ abudrar' src='https://4.bp.blogspot.com/-1GNq6UJq9hs/WMxT6PklXJI/AAAAAAAADAA/pGgO1u17l7ws2ICe6vdmeUuzFjWWwZ9lwCLcB/s1600/abudrarlogo.png'/>
 </div>
 <div class='infoo_3'>
